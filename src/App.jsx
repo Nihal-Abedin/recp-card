@@ -2,9 +2,9 @@ function App() {
   return (
     <div className="cont">
       <div className="image">
-        <img src="../src/assets/left2.jpeg" className="image1" alt="image" />
-        <img src="../src/assets/left2.jpeg" className="image3" alt="image" />
-        <img src="../src/assets/right2.jpeg" className="image2" alt="image" />
+        <img src="../public/left2.jpeg" className="image1" alt="image" />
+        <img src="../public/left2.jpeg" className="image3" alt="image" />
+        <img src="../public/right2.jpeg" className="image2" alt="image" />
       </div>
       <div className="name-plate">
         <div className="names">
